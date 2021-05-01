@@ -11,6 +11,7 @@ PLA Middle Quality 0.14mm Layer
 PLA Normal Quality 0.2mm Layer
 Wood_Bamboo Middle Quality 0.14mm Layer
 TPU Normal Quality 0.2 mm Layer
+to continue...
 ```
 
 
