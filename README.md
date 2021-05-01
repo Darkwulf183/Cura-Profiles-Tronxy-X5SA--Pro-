@@ -9,6 +9,7 @@ PETG Normal Quality 0.2mm Layer
 PLA Middle Normal Quality 0.16mm Layer
 PLA Middle Quality 0.14mm Layer
 PLA Normal Quality 0.2mm Layer
+Wood_Bamboo Middle Quality 0.14mm Layer
 ```
 
 
